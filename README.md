@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=90&desc=Hello!%20This%20is&descAlign=50&descAlignY=25&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=80&desc=Hello!%20This%20is&descAlign=50&descAlignY=25&descSize=25)
 
-<div align="center">
+<div align=center>
 <br>
+
 #### :zap: Tech Stack
 <br>
 <img src="https://img.shields.io/badge/java-F01A30?style=for-the-badge&logo=java&logoColor=white">
