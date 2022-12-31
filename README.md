@@ -1,19 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=80&desc=Hello!%20This%20is&descAlign=50&descAlignY=25&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
 
 <div align=center>
+반갑습니다! 백엔드 개발을 공부하고 있습니다
 <br>
 
-#### :zap: Tech Stack
-<br>
+### :zap: Tech Stack
 <img src="https://img.shields.io/badge/java-F01A30?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<br>
+<br><br>
 
-#### :zap: Contact
+### :zap: Contact
 <a href="https://kimkimj.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-E6A595?style=for-the-badge&logo=gitblog&logoColor=black"></a>
 
 <br><br>
