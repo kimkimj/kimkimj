@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B3C734&height=250&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
 
 <div align=center>
 반갑습니다! 백엔드 개발을 공부하고 있습니다
@@ -19,4 +19,4 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=greente&theme=warm)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=B3C734&section=footer)
