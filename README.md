@@ -13,12 +13,6 @@
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <br><br>
 
-### :zap: Contact
-<a href="https://kimkimj.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-E6A595?style=for-the-badge&logo=gitblog&logoColor=black"></a>
-
-<br><br>
-
-
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=greente)](https://solved.ac/{handle})
